@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 function App(){
   return(
 <div>
@@ -6,6 +7,11 @@ function App(){
       <Myname/>
    
 </div>
+=======
+function Apple(){
+  return (
+    <h1>first Component</h1>
+>>>>>>> 52bf448c6bc561ccba65cbf966f8f057300ad9b7
   )
 }
 function Myname(){
